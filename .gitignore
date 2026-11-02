@@ -1,0 +1,41 @@
+# Virtual environments
+.venv/
+.venv_*/
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MacOS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Other files
+*.html
+*.pdf
+*.zip
+
+# Downloaded BKA Excel files and Destatis CSV
+data/*.xlsx
+data/12411-0009_en.csv
+
+# Local notes
+part_*.md
+project*.md
+what*.md
+rubric.md

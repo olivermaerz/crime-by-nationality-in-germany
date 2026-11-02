@@ -1,0 +1,121 @@
+key,offence,offence_de,nationality,suspects,population,suspects_per_100k,offence_short
+000000,Offences against life,Straftaten gegen das Leben,Germany,2161,66004511.0,3.274018650028329,Offences against life
+111000,Sexual assault & rape,"Vergewaltigung, sexuelle Nötigung und sexueller Übergriff im besonders schweren Fall einschl. mit Todesfolge §§ 177, 178 StGB",Germany,7573,66004511.0,11.47345823075638,Sexual assault & rape
+200000,Brutality & personal freedom,Rohheitsdelikte und Straftaten gegen die persönliche Freiheit,Germany,450956,66004511.0,683.2199696169251,Brutality & personal freedom
+4***00,Aggravated theft,Diebstahl unter erschwerenden Umständen §§ 243-244a StGB und zwar:,Germany,36016,66004511.0,54.565967468496204,Aggravated theft
+****00,Theft (total),Diebstahl insgesamt und zwar:,Germany,204683,66004511.0,310.104562398773,Theft (total)
+726200,Weapons Act offences,Straftaten gegen das Waffengesetz,Germany,22693,66004511.0,34.38098344520726,Weapons Act offences
+890000,Overall crime (excl. immigration),"Straftaten insgesamt, jedoch ohne Verstöße gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU (Schlüssel 725000)",Germany,1230432,66004511.0,1864.1634963404242,Overall crime (excl. immigration)
+892000,Violent crime,Gewaltkriminalität,Germany,109674,66004511.0,166.16137039482044,Violent crime
+000000,Offences against life,Straftaten gegen das Leben,Bulgaria,37,323241.0,11.446567731197467,Offences against life
+111000,Sexual assault & rape,"Vergewaltigung, sexuelle Nötigung und sexueller Übergriff im besonders schweren Fall einschl. mit Todesfolge §§ 177, 178 StGB",Bulgaria,147,323241.0,45.476904229352094,Sexual assault & rape
+200000,Brutality & personal freedom,Rohheitsdelikte und Straftaten gegen die persönliche Freiheit,Bulgaria,8856,323241.0,2739.7514547968854,Brutality & personal freedom
+4***00,Aggravated theft,Diebstahl unter erschwerenden Umständen §§ 243-244a StGB und zwar:,Bulgaria,1442,323241.0,446.1067748212634,Aggravated theft
+****00,Theft (total),Diebstahl insgesamt und zwar:,Bulgaria,7039,323241.0,2177.632169186458,Theft (total)
+726200,Weapons Act offences,Straftaten gegen das Waffengesetz,Bulgaria,477,323241.0,147.567913723816,Weapons Act offences
+890000,Overall crime (excl. immigration),"Straftaten insgesamt, jedoch ohne Verstöße gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU (Schlüssel 725000)",Bulgaria,27310,323241.0,8448.80445240548,Overall crime (excl. immigration)
+892000,Violent crime,Gewaltkriminalität,Bulgaria,3151,323241.0,974.8144573244113,Violent crime
+000000,Offences against life,Straftaten gegen das Leben,Croatia,21,360650.0,5.822819908498544,Offences against life
+111000,Sexual assault & rape,"Vergewaltigung, sexuelle Nötigung und sexueller Übergriff im besonders schweren Fall einschl. mit Todesfolge §§ 177, 178 StGB",Croatia,39,360650.0,10.813808401497297,Sexual assault & rape
+200000,Brutality & personal freedom,Rohheitsdelikte und Straftaten gegen die persönliche Freiheit,Croatia,3594,360650.0,996.534035768751,Brutality & personal freedom
+4***00,Aggravated theft,Diebstahl unter erschwerenden Umständen §§ 243-244a StGB und zwar:,Croatia,476,360650.0,131.983917925967,Aggravated theft
+****00,Theft (total),Diebstahl insgesamt und zwar:,Croatia,1995,360650.0,553.1678913073616,Theft (total)
+726200,Weapons Act offences,Straftaten gegen das Waffengesetz,Croatia,125,360650.0,34.659642312491336,Weapons Act offences
+890000,Overall crime (excl. immigration),"Straftaten insgesamt, jedoch ohne Verstöße gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU (Schlüssel 725000)",Croatia,10226,360650.0,2835.436018300291,Overall crime (excl. immigration)
+892000,Violent crime,Gewaltkriminalität,Croatia,858,360650.0,237.90378483294052,Violent crime
+000000,Offences against life,Straftaten gegen das Leben,Italy,38,546528.0,6.952983195737455,Offences against life
+111000,Sexual assault & rape,"Vergewaltigung, sexuelle Nötigung und sexueller Übergriff im besonders schweren Fall einschl. mit Todesfolge §§ 177, 178 StGB",Italy,86,546528.0,15.73569881140582,Sexual assault & rape
+200000,Brutality & personal freedom,Rohheitsdelikte und Straftaten gegen die persönliche Freiheit,Italy,6844,546528.0,1252.2688682007145,Brutality & personal freedom
+4***00,Aggravated theft,Diebstahl unter erschwerenden Umständen §§ 243-244a StGB und zwar:,Italy,537,546528.0,98.25663095028985,Aggravated theft
+****00,Theft (total),Diebstahl insgesamt und zwar:,Italy,3498,546528.0,640.0404004918321,Theft (total)
+726200,Weapons Act offences,Straftaten gegen das Waffengesetz,Italy,419,546528.0,76.66578839510511,Weapons Act offences
+890000,Overall crime (excl. immigration),"Straftaten insgesamt, jedoch ohne Verstöße gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU (Schlüssel 725000)",Italy,18774,546528.0,3435.139645178289,Overall crime (excl. immigration)
+892000,Violent crime,Gewaltkriminalität,Italy,1642,546528.0,300.4420633526553,Violent crime
+000000,Offences against life,Straftaten gegen das Leben,Kosovo,35,282491.0,12.389775249476974,Offences against life
+111000,Sexual assault & rape,"Vergewaltigung, sexuelle Nötigung und sexueller Übergriff im besonders schweren Fall einschl. mit Todesfolge §§ 177, 178 StGB",Kosovo,110,282491.0,38.939293641213354,Sexual assault & rape
+200000,Brutality & personal freedom,Rohheitsdelikte und Straftaten gegen die persönliche Freiheit,Kosovo,5321,282491.0,1883.5998314990566,Brutality & personal freedom
+4***00,Aggravated theft,Diebstahl unter erschwerenden Umständen §§ 243-244a StGB und zwar:,Kosovo,696,282491.0,246.37953067531353,Aggravated theft
+****00,Theft (total),Diebstahl insgesamt und zwar:,Kosovo,2624,282491.0,928.8791501322165,Theft (total)
+726200,Weapons Act offences,Straftaten gegen das Waffengesetz,Kosovo,201,282491.0,71.15270928985348,Weapons Act offences
+890000,Overall crime (excl. immigration),"Straftaten insgesamt, jedoch ohne Verstöße gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU (Schlüssel 725000)",Kosovo,13318,282491.0,4714.4864792152675,Overall crime (excl. immigration)
+892000,Violent crime,Gewaltkriminalität,Kosovo,1641,282491.0,580.9034624111919,Violent crime
+000000,Offences against life,Straftaten gegen das Leben,Poland,78,685697.0,11.375286752020207,Offences against life
+111000,Sexual assault & rape,"Vergewaltigung, sexuelle Nötigung und sexueller Übergriff im besonders schweren Fall einschl. mit Todesfolge §§ 177, 178 StGB",Poland,132,685697.0,19.25048527264958,Sexual assault & rape
+200000,Brutality & personal freedom,Rohheitsdelikte und Straftaten gegen die persönliche Freiheit,Poland,14450,685697.0,2107.344789316564,Brutality & personal freedom
+4***00,Aggravated theft,Diebstahl unter erschwerenden Umständen §§ 243-244a StGB und zwar:,Poland,4179,685697.0,609.4528632909288,Aggravated theft
+****00,Theft (total),Diebstahl insgesamt und zwar:,Poland,15263,685697.0,2225.9102781549286,Theft (total)
+726200,Weapons Act offences,Straftaten gegen das Waffengesetz,Poland,1601,685697.0,233.48505243569684,Weapons Act offences
+890000,Overall crime (excl. immigration),"Straftaten insgesamt, jedoch ohne Verstöße gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU (Schlüssel 725000)",Poland,45381,685697.0,6618.229334531141,Overall crime (excl. immigration)
+892000,Violent crime,Gewaltkriminalität,Poland,4142,685697.0,604.0568939342013,Violent crime
+000000,Offences against life,Straftaten gegen das Leben,Romania,99,689813.0,14.351715609882678,Offences against life
+111000,Sexual assault & rape,"Vergewaltigung, sexuelle Nötigung und sexueller Übergriff im besonders schweren Fall einschl. mit Todesfolge §§ 177, 178 StGB",Romania,216,689813.0,31.312834057925844,Sexual assault & rape
+200000,Brutality & personal freedom,Rohheitsdelikte und Straftaten gegen die persönliche Freiheit,Romania,15042,689813.0,2180.5909717561135,Brutality & personal freedom
+4***00,Aggravated theft,Diebstahl unter erschwerenden Umständen §§ 243-244a StGB und zwar:,Romania,7628,689813.0,1105.8069360826776,Aggravated theft
+****00,Theft (total),Diebstahl insgesamt und zwar:,Romania,29967,689813.0,4344.220825064184,Theft (total)
+726200,Weapons Act offences,Straftaten gegen das Waffengesetz,Romania,969,689813.0,140.47285278763954,Weapons Act offences
+890000,Overall crime (excl. immigration),"Straftaten insgesamt, jedoch ohne Verstöße gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU (Schlüssel 725000)",Romania,65299,689813.0,9466.188662724535,Overall crime (excl. immigration)
+892000,Violent crime,Gewaltkriminalität,Romania,5184,689813.0,751.5080173902203,Violent crime
+000000,Offences against life,Straftaten gegen das Leben,Russian Federation,23,252231.0,9.118625387046002,Offences against life
+111000,Sexual assault & rape,"Vergewaltigung, sexuelle Nötigung und sexueller Übergriff im besonders schweren Fall einschl. mit Todesfolge §§ 177, 178 StGB",Russian Federation,39,252231.0,15.46201696064322,Sexual assault & rape
+200000,Brutality & personal freedom,Rohheitsdelikte und Straftaten gegen die persönliche Freiheit,Russian Federation,3993,252231.0,1583.0726595858557,Brutality & personal freedom
+4***00,Aggravated theft,Diebstahl unter erschwerenden Umständen §§ 243-244a StGB und zwar:,Russian Federation,639,252231.0,253.3392009705389,Aggravated theft
+****00,Theft (total),Diebstahl insgesamt und zwar:,Russian Federation,2610,252231.0,1034.7657504430463,Theft (total)
+726200,Weapons Act offences,Straftaten gegen das Waffengesetz,Russian Federation,240,252231.0,95.15087360395827,Weapons Act offences
+890000,Overall crime (excl. immigration),"Straftaten insgesamt, jedoch ohne Verstöße gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU (Schlüssel 725000)",Russian Federation,9755,252231.0,3867.4865500275537,Overall crime (excl. immigration)
+892000,Violent crime,Gewaltkriminalität,Russian Federation,1463,252231.0,580.0238670107956,Violent crime
+000000,Offences against life,Straftaten gegen das Leben,Turkey,195,1368023.5,14.25414110210826,Offences against life
+111000,Sexual assault & rape,"Vergewaltigung, sexuelle Nötigung und sexueller Übergriff im besonders schweren Fall einschl. mit Todesfolge §§ 177, 178 StGB",Turkey,526,1368023.5,38.44963189594331,Sexual assault & rape
+200000,Brutality & personal freedom,Rohheitsdelikte und Straftaten gegen die persönliche Freiheit,Turkey,28551,1368023.5,2087.0255518271433,Brutality & personal freedom
+4***00,Aggravated theft,Diebstahl unter erschwerenden Umständen §§ 243-244a StGB und zwar:,Turkey,1498,1368023.5,109.50104292799064,Aggravated theft
+****00,Theft (total),Diebstahl insgesamt und zwar:,Turkey,6416,1368023.5,468.9977913391108,Theft (total)
+726200,Weapons Act offences,Straftaten gegen das Waffengesetz,Turkey,1172,1368023.5,85.67104293164554,Weapons Act offences
+890000,Overall crime (excl. immigration),"Straftaten insgesamt, jedoch ohne Verstöße gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU (Schlüssel 725000)",Turkey,62143,1368023.5,4542.53892568366,Overall crime (excl. immigration)
+892000,Violent crime,Gewaltkriminalität,Turkey,7470,1368023.5,546.0432514499934,Violent crime
+000000,Offences against life,Straftaten gegen das Leben,Ukraine,65,984719.5,6.600864510147306,Offences against life
+111000,Sexual assault & rape,"Vergewaltigung, sexuelle Nötigung und sexueller Übergriff im besonders schweren Fall einschl. mit Todesfolge §§ 177, 178 StGB",Ukraine,137,984719.5,13.912591352156628,Sexual assault & rape
+200000,Brutality & personal freedom,Rohheitsdelikte und Straftaten gegen die persönliche Freiheit,Ukraine,16188,984719.5,1643.919918311763,Brutality & personal freedom
+4***00,Aggravated theft,Diebstahl unter erschwerenden Umständen §§ 243-244a StGB und zwar:,Ukraine,2803,984719.5,284.64958802989077,Aggravated theft
+****00,Theft (total),Diebstahl insgesamt und zwar:,Ukraine,17616,984719.5,1788.9358340116144,Theft (total)
+726200,Weapons Act offences,Straftaten gegen das Waffengesetz,Ukraine,899,984719.5,91.29503376342197,Weapons Act offences
+890000,Overall crime (excl. immigration),"Straftaten insgesamt, jedoch ohne Verstöße gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU (Schlüssel 725000)",Ukraine,48440,984719.5,4919.167336485161,Overall crime (excl. immigration)
+892000,Violent crime,Gewaltkriminalität,Ukraine,5105,984719.5,518.4217434507999,Violent crime
+000000,Offences against life,Straftaten gegen das Leben,Serbia,32,235211.0,13.604805897683356,Offences against life
+111000,Sexual assault & rape,"Vergewaltigung, sexuelle Nötigung und sexueller Übergriff im besonders schweren Fall einschl. mit Todesfolge §§ 177, 178 StGB",Serbia,112,235211.0,47.61682064189175,Sexual assault & rape
+200000,Brutality & personal freedom,Rohheitsdelikte und Straftaten gegen die persönliche Freiheit,Serbia,6648,235211.0,2826.3984252437176,Brutality & personal freedom
+4***00,Aggravated theft,Diebstahl unter erschwerenden Umständen §§ 243-244a StGB und zwar:,Serbia,1430,235211.0,607.964763552725,Aggravated theft
+****00,Theft (total),Diebstahl insgesamt und zwar:,Serbia,4897,235211.0,2081.960452529856,Theft (total)
+726200,Weapons Act offences,Straftaten gegen das Waffengesetz,Serbia,270,235211.0,114.79054976170332,Weapons Act offences
+890000,Overall crime (excl. immigration),"Straftaten insgesamt, jedoch ohne Verstöße gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU (Schlüssel 725000)",Serbia,18544,235211.0,7883.985017707505,Overall crime (excl. immigration)
+892000,Violent crime,Gewaltkriminalität,Serbia,2005,235211.0,852.4261195267228,Violent crime
+000000,Offences against life,Straftaten gegen das Leben,"Afghanistan, Republic of",102,354399.0,28.781119585551878,Offences against life
+111000,Sexual assault & rape,"Vergewaltigung, sexuelle Nötigung und sexueller Übergriff im besonders schweren Fall einschl. mit Todesfolge §§ 177, 178 StGB","Afghanistan, Republic of",507,354399.0,143.05909441053726,Sexual assault & rape
+200000,Brutality & personal freedom,Rohheitsdelikte und Straftaten gegen die persönliche Freiheit,"Afghanistan, Republic of",14422,354399.0,4069.4245751257763,Brutality & personal freedom
+4***00,Aggravated theft,Diebstahl unter erschwerenden Umständen §§ 243-244a StGB und zwar:,"Afghanistan, Republic of",657,354399.0,185.38427027164298,Aggravated theft
+****00,Theft (total),Diebstahl insgesamt und zwar:,"Afghanistan, Republic of",4092,354399.0,1154.6307974909637,Theft (total)
+726200,Weapons Act offences,Straftaten gegen das Waffengesetz,"Afghanistan, Republic of",238,354399.0,67.15594569962104,Weapons Act offences
+890000,Overall crime (excl. immigration),"Straftaten insgesamt, jedoch ohne Verstöße gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU (Schlüssel 725000)","Afghanistan, Republic of",30304,354399.0,8550.814195299648,Overall crime (excl. immigration)
+892000,Violent crime,Gewaltkriminalität,"Afghanistan, Republic of",5571,354399.0,1571.957031481466,Violent crime
+000000,Offences against life,Straftaten gegen das Leben,Iraq,48,202767.0,23.672491085827573,Offences against life
+111000,Sexual assault & rape,"Vergewaltigung, sexuelle Nötigung und sexueller Übergriff im besonders schweren Fall einschl. mit Todesfolge §§ 177, 178 StGB",Iraq,256,202767.0,126.2532857910804,Sexual assault & rape
+200000,Brutality & personal freedom,Rohheitsdelikte und Straftaten gegen die persönliche Freiheit,Iraq,8389,202767.0,4137.2609941459905,Brutality & personal freedom
+4***00,Aggravated theft,Diebstahl unter erschwerenden Umständen §§ 243-244a StGB und zwar:,Iraq,532,202767.0,262.37010953458895,Aggravated theft
+****00,Theft (total),Diebstahl insgesamt und zwar:,Iraq,2675,202767.0,1319.248201137266,Theft (total)
+726200,Weapons Act offences,Straftaten gegen das Waffengesetz,Iraq,245,202767.0,120.8283399172449,Weapons Act offences
+890000,Overall crime (excl. immigration),"Straftaten insgesamt, jedoch ohne Verstöße gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU (Schlüssel 725000)",Iraq,17734,202767.0,8745.999102418047,Overall crime (excl. immigration)
+892000,Violent crime,Gewaltkriminalität,Iraq,3179,202767.0,1567.8093575384553,Violent crime
+000000,Offences against life,Straftaten gegen das Leben,"Iran, Islamic Republic of",20,136236.0,14.68040752811298,Offences against life
+111000,Sexual assault & rape,"Vergewaltigung, sexuelle Nötigung und sexueller Übergriff im besonders schweren Fall einschl. mit Todesfolge §§ 177, 178 StGB","Iran, Islamic Republic of",115,136236.0,84.41234328664963,Sexual assault & rape
+200000,Brutality & personal freedom,Rohheitsdelikte und Straftaten gegen die persönliche Freiheit,"Iran, Islamic Republic of",4293,136236.0,3151.149475909451,Brutality & personal freedom
+4***00,Aggravated theft,Diebstahl unter erschwerenden Umständen §§ 243-244a StGB und zwar:,"Iran, Islamic Republic of",321,136236.0,235.62054082621333,Aggravated theft
+****00,Theft (total),Diebstahl insgesamt und zwar:,"Iran, Islamic Republic of",2000,136236.0,1468.040752811298,Theft (total)
+726200,Weapons Act offences,Straftaten gegen das Waffengesetz,"Iran, Islamic Republic of",74,136236.0,54.317507854018025,Weapons Act offences
+890000,Overall crime (excl. immigration),"Straftaten insgesamt, jedoch ohne Verstöße gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU (Schlüssel 725000)","Iran, Islamic Republic of",9456,136236.0,6940.896679291818,Overall crime (excl. immigration)
+892000,Violent crime,Gewaltkriminalität,"Iran, Islamic Republic of",1252,136236.0,918.9935112598725,Violent crime
+000000,Offences against life,Straftaten gegen das Leben,Syrian,197,758598.5,25.968941409718056,Offences against life
+111000,Sexual assault & rape,"Vergewaltigung, sexuelle Nötigung und sexueller Übergriff im besonders schweren Fall einschl. mit Todesfolge §§ 177, 178 StGB",Syrian,735,758598.5,96.88919764539477,Sexual assault & rape
+200000,Brutality & personal freedom,Rohheitsdelikte und Straftaten gegen die persönliche Freiheit,Syrian,31286,758598.5,4124.184268753497,Brutality & personal freedom
+4***00,Aggravated theft,Diebstahl unter erschwerenden Umständen §§ 243-244a StGB und zwar:,Syrian,2166,758598.5,285.5265334692858,Aggravated theft
+****00,Theft (total),Diebstahl insgesamt und zwar:,Syrian,11068,758598.5,1459.006312298271,Theft (total)
+726200,Weapons Act offences,Straftaten gegen das Waffengesetz,Syrian,846,758598.5,111.52144382041358,Weapons Act offences
+890000,Overall crime (excl. immigration),"Straftaten insgesamt, jedoch ohne Verstöße gegen das Aufenthalts-, das Asyl- und das Freizügigkeitsgesetz/EU (Schlüssel 725000)",Syrian,62915,758598.5,8293.583496408179,Overall crime (excl. immigration)
+892000,Violent crime,Gewaltkriminalität,Syrian,13518,758598.5,1781.9703044495868,Violent crime
